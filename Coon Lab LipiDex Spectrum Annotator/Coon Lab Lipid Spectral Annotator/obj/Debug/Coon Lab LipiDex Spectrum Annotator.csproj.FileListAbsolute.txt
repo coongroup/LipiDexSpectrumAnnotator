@@ -1,0 +1,94 @@
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.AssemblyReference.cache
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon_Lab_LipiDex_Spectrum_Annotator.Form1.resources
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon_Lab_Lipid_Spectral_Annotator.Properties.Resources.resources
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.GenerateResource.cache
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.CoreCompileInputs.cache
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.exe.config
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.exe
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.pdb
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Buffers.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Memory.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.ValueTuple.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Buffers.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Memory.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.ValueTuple.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab Lipid Spectral Annotator.exe
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab Lipid Spectral Annotator.pdb
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\dainb\source\repos\Coon Lab Lipid Spectral Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.exe.config
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.exe
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.pdb
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Buffers.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Memory.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.ValueTuple.dll
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Buffers.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Memory.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.ValueTuple.xml
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.AssemblyReference.cache
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon_Lab_LipiDex_Spectrum_Annotator.Form1.resources
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon_Lab_Lipid_Spectral_Annotator.Properties.Resources.resources
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.GenerateResource.cache
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.CoreCompileInputs.cache
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.CopyComplete
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab Lipid Spectral Annotator.exe
+C:\Users\dbrademan\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab Lipid Spectral Annotator.pdb
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.exe.config
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.exe
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Coon Lab Lipid Spectral Annotator.pdb
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Buffers.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Memory.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.ValueTuple.dll
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Buffers.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Memory.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\bin\Debug\System.ValueTuple.xml
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.AssemblyReference.cache
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon_Lab_LipiDex_Spectrum_Annotator.Form1.resources
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon_Lab_Lipid_Spectral_Annotator.Properties.Resources.resources
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.GenerateResource.cache
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab LipiDex Spectrum Annotator.csproj.CoreCompileInputs.cache
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab Lipid Spectral Annotator.exe
+C:\Users\dainb\source\repos\Coon Lab LipiDex Spectrum Annotator\Coon Lab Lipid Spectral Annotator\obj\Debug\Coon Lab Lipid Spectral Annotator.pdb
