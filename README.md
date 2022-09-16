@@ -7,6 +7,7 @@ LipiDex search results, spectral data in MGF format, and libraries must be store
 Refer to the example folder structure section of this repository for a quick copy-paste solution. 
 Spectral data and Spectrum Searcher results need to be a in a 1-1 relationship, meaning for every file you processed in LipiDex, there must be a resulting MGF, Spectrum Searcher .csv, and be in the AssociatedSpectra.csv table. Missing files shouldn't cause any problems, but extra files will cause the script to crash.
 
+```
 Base Directory (Name of this one not important)
 ├── Annotated Spectra
     └── Contains the generated annotated spectra as PDFs
@@ -18,3 +19,4 @@ Base Directory (Name of this one not important)
     └── Spectral data.
 └── Spectrum Searcher
     └── The .csv output from the Spectrum Searcher module for each file you want annotated.
+```
